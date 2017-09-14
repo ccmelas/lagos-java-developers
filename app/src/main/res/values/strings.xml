@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Java Developers</string>
+    <string name="error_message">An error occurred. Please Hit Refresh to reload</string>
+    <string name="refresh">Refresh</string>
+    <string name="network_error">It seems your network is disconnected. Turn it on and click the refresh menu</string>
+    <string name="developer_avatar">Developer Avatar</string>
+    <string name="share_profile">Share Profile</string>
+    <string name="profile">Profile</string>
+</resources>
